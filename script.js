@@ -24,4 +24,9 @@ let show6 = document.querySelector(".show-6");
 
 
 show1.src = photos[0];
+show2.src = photos[1];
+show3.src = photos[2];
+show4.src = photos[3];
+show5.src = photos[4];
+show6.src = photos[5];
 // 2. Update the src for each show# variable - use the line above as a reference.
